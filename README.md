@@ -59,7 +59,6 @@ ipfs name publish [hash]
 5. Akses IPFS menggunakan `ipfs://ipfs/[hash]` yang sudah diberikan (bisa pakai extension `IPFS Companion`)
    ![hash](./img/publish.png)
 
-<br>
 - Note: katanya ada [gateway](https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-providers) dari IPFS tetapi masih belum jalan ketika akses gatewaynya `/ipfs/QmUXGmq7C6jjhwyek3FrKyuKMoKZpVqjpiQMNMNKoG6XDU`
 
 ## Tampilan
