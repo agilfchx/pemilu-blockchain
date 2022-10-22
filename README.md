@@ -1,4 +1,4 @@
-# Pemilu menggunakan Blockchain beserta IPFS
+# Pemilu menggunakan Smart Contract beserta IPFS
 
 ## Description
 
